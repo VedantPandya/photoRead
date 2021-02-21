@@ -13,5 +13,5 @@ photoRead consists of a Text Detection and Text Recognition Model, which are com
 
 ## Text Detection and Recognition
 
-![textAndRecog-1](https://github.com/VedantPandya/photoRead/blob/master/Images/textAndRecog-1.png)
-![textAndRecog-2](https://github.com/VedantPandya/photoRead/blob/master/Images/textAndRecog-2.png)
+![textAndRecog-1](https://github.com/VedantPandya/photoRead/blob/master/Images/textAndRecog-1.jpg)
+![textAndRecog-2](https://github.com/VedantPandya/photoRead/blob/master/Images/textAndRecog-2.jpg)
